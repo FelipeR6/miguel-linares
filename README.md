@@ -10,8 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-linares-ria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mflinares07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[tu-enlace-portafolio]"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"></a>
-  <a href="https://github.com/[tu-usuario]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/FelipeR6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -73,7 +72,6 @@ Aplicación web y móvil desarrollada para la **gestión, control, administraci�
 - **Mi rol:** Lideré el diseño y desarrollo integral del sistema: levantamiento de requerimientos, modelado de la base de datos relacional, diseño lógico de la solución e implementación de frontend y backend.
 - **Módulos implementados:** inventario, usuarios, préstamos, mantenimientos, auditoría y generación de reportes.
 
-🔗 [Ver repositorio del proyecto]([enlace-repositorio-SGIT])
 
 ---
 
@@ -87,19 +85,6 @@ Aplicación web y móvil desarrollada para la **gestión, control, administraci�
 - Control de calidad documental y evidencias de pruebas en Azure.
 
 > Esta experiencia me aporta una visión integral del ciclo de vida del software: **del requerimiento a la solución, y de la solución a la documentación y validación**.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-usuario]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -118,7 +103,6 @@ Aplicación web y móvil desarrollada para la **gestión, control, administraci�
 <p align="center">
   <a href="mailto:mflinares07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/miguel-linares-ria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[tu-enlace-portafolio]"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"></a>
 </p>
 
 <p align="center">
