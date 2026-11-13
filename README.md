@@ -71,6 +71,7 @@ Aplicación web y móvil desarrollada para la **gestión, control, administraci�
 - **Stack:** React · Node.js · Express · MySQL
 - **Mi rol:** Lideré el diseño y desarrollo integral del sistema: levantamiento de requerimientos, modelado de la base de datos relacional, diseño lógico de la solución e implementación de frontend y backend.
 - **Módulos implementados:** inventario, usuarios, préstamos, mantenimientos, auditoría y generación de reportes.
+🔗 [Ver repositorio del proyecto](https://github.com/FelipeR6/SGIT_App-Web)
 
 
 ---
