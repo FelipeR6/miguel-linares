@@ -22,11 +22,11 @@ Soy **Tecnólogo en Análisis y Desarrollo de Software** (SENA) e **Ingeniero de
 
 Me apasiona **traducir requerimientos funcionales en soluciones de software claras, funcionales y bien documentadas**. Actualmente busco mi primera oportunidad como **Desarrollador Junior** para aportar en la construcción de soluciones escalables y de calidad.
 
-- 🔭 Actualmente trabajando en **Soporte Lógico S.A.S.** como Analista y Documentador
-- 🌱 Aprendiendo **TypeScript, Docker y testing (Jest)**
-- 💬 Pregúntame sobre **React, Node.js, Express, MySQL, Oracle o Scrum**
-- 📫 Contáctame: **mflinares07@gmail.com**
-- 📍 Bogotá D.C., Colombia
+- Actualmente trabajando en **Soporte Lógico S.A.S.** como Analista y Documentador
+- Aprendiendo **TypeScript, Java, C#, C++**
+- Pregúntame sobre **React, Node.js, Express, MySQL, Oracle o Scrum**
+- Contáctame: **mflinares07@gmail.com**
+- Bogotá D.C., Colombia
 
 ---
 
@@ -107,17 +107,17 @@ Aplicación web y móvil desarrollada para la **gestión, control, administraci�
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
-
 ---
 
 ## 📫 Contacto
 
 <p align="center">
   <a href="mailto:mflinares07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/[tu-perfil]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/miguel-linares-ria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="[tu-enlace-portafolio]"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"></a>
 </p>
 
